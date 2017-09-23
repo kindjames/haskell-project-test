@@ -1,0 +1,1 @@
+2017-09-23 14:04:44 [ThreadId 11] ERROR phoityne - "\"extractSourcePosition\" (line 5, column 6):\nunexpected end of input\nexpecting \"Stopped at \" or \"Stopped in \" [INPUT]    should be 0\n\nFinished in 0.7433 seconds\n3 examples, 0 failures\nH>>= "
